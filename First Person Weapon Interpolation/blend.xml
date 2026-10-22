@@ -92,4 +92,56 @@
 
   </tweak>
 
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/empty" segment="base" />
+    </search>
+
+    <target>
+      <default blend="0.0" />
+    </target>
+
+  </tweak>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/wheel_idle" segment="base" />
+    </search>
+
+    <target>
+      <default blend="0.0" />
+    </target>
+
+  </tweak>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/wheel_turn_left" segment="base" />
+    </search>
+
+    <target>
+      <default blend="0.0" />
+    </target>
+
+  </tweak>
+  
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/wheel_turn_right" segment="base" />
+    </search>
+
+    <target>
+      <default blend="0.0" />
+    </target>
+
+  </tweak>
+
 </tweaks>
