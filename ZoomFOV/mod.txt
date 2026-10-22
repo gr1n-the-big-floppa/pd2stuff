@@ -1,0 +1,14 @@
+{
+	"name" : "ZoomFOV",
+	"description" : "Use the same FOV when ADS, regardless of FOV multiplier setting.",
+	"author" : "6r1N",
+	"version" : "1.0",
+    "blt_version" : 2,
+    "priority" : 901,
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		}
+	]
+}

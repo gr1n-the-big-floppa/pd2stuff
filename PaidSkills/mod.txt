@@ -1,0 +1,7 @@
+{
+	"name" : "PaidSkills",
+	"description" : "Adds cash cost to skills.",
+	"author" : "6r1N",
+	"version" : "1.0",
+    "blt_version" : 2
+}

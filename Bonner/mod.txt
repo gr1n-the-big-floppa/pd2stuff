@@ -1,0 +1,13 @@
+{
+	"name" : "Bonner",
+	"description" : "Swaps Clover's and Bonnie's voice line sets",
+	"author" : "6r1N",
+	"version" : "1.0",
+    "blt_version" : 2,
+	"hooks" : [
+		{
+			"hook_id" : "lib/tweak_data/tweakdata",
+			"script_path" : "tweakdata.lua"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"name" : "Dynamic Crosshair",
+	"description" : "Adds a dynamic crosshair which scales with accuracy. Based on Simple Crosshair by hugojmaia.",
+	"author" : "6r1N, hugojmaia",
+	"version" : "1.0",
+    "blt_version" : 2
+}

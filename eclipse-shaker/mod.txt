@@ -1,0 +1,14 @@
+{
+	"name" : "Eclipse Shaker",
+	"description" : "Adds back screen shake when firing a weapon to Eclipse Overhaul",
+	"author" : "6r1N",
+	"version" : "1.0",
+    "priority" : 899,
+    "blt_version" : 2,
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/beings/player/playercamera",
+			"script_path" : "playercamera.lua"
+		}
+	]
+}

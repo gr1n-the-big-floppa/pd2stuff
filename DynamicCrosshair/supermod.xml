@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<mod name="DynamicRecoil">
+
+	<hooks script_path="mod.lua">
+
+		<group hook_id="lib/managers/">
+			<post :hook_id="playermanager"/>
+			<post :hook_id="hudmanagerpd2"/>
+			<post :hook_id="hud/hudhitconfirm"/>
+		</group>
+
+	</hooks>
+</mod>

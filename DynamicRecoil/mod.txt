@@ -1,0 +1,7 @@
+{
+	"name" : "DynamicRecoil",
+	"description" : "Fixes your aim going to the floor after compensating for recoil.",
+	"author" : "6r1N",
+	"version" : "1.0",
+    "blt_version" : 2
+}

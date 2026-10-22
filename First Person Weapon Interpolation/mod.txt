@@ -1,0 +1,9 @@
+{
+  "name": "First Person Weapon Interpolation",
+  "description": "Adds animation blending to first person weapons",
+  "author": "6r1N",
+  "version": "1.0",
+  "blt_version": 2,
+  "needs_restart": true,
+  "vr_disabled": true
+}

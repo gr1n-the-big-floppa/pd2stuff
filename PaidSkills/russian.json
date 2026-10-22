@@ -1,0 +1,11 @@
+{
+  "paidskills_skill_respec": "Это действие удалит навык $skill_name;.\n\nБудет возвращено $refund_points; очков и возмещено $refund_cash_perc;% вложенных средств.",
+  "paidskills_tree_respec": "Вы собираетесь сбросить эту ветку навыков.\n\nСброс обнуляет все очки навыков в ветке $skill_tree;.\nТакже будет возмещено $refund_cash_perc;% вложенных в эту ветку средств.",
+  "paidskills_all_trees_respec": "Вы собираетесь сбросить все ветки навыков.\n\nСброс обнуляет все очки навыков.\nТакже будет возмещено $refund_cash_perc;% средств, вложенных во все ветки навыков.",
+  "paidskills_basic": "БАЗОВЫЙ",
+  "paidskills_ace": "ПРО",
+  "paidskills_title": "Настройки PaidSkills",
+  "paidskills_desc": "Изменить настройки PaidSkills",
+  "paidskills_settings_no_confirmation_title": "Без диалогов подтверждения",
+  "paidskills_settings_no_confirmation_description": "Отключить диалоги подтверждения при добавлении/удалении навыков и сбросе веток навыков."
+}

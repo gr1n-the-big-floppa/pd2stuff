@@ -1,0 +1,14 @@
+{
+	"name" : "Zippy",
+	"description" : "Increases speed of bag and mixed zip lines",
+	"author" : "6r1N",
+	"version" : "1.0",
+    "blt_version" : 2,
+    "priority" : 901,
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/props/zipline",
+			"script_path" : "zipline.lua"
+		}
+	]
+}

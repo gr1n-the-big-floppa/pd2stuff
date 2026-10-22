@@ -1,0 +1,18 @@
+{
+    "menu_id" : "paidskills_settings_menu",
+    "parent_menu_id" : "blt_options",
+    "title" : "paidskills_title",
+    "description" : "paidskills_desc",
+    "back_callback" : "paidskills_save",
+    "items" : [
+    {
+      "type" : "toggle",
+      "id" : "paidskills_settings_no_confirmation",
+      "title" : "paidskills_settings_no_confirmation_title",
+      "description" : "paidskills_settings_no_confirmation_description",
+      "callback" : "set_no_confirmation_value",
+      "value" : "no_confirmation",
+      "default_value" : false
+    }
+	]
+}

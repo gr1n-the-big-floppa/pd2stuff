@@ -1,0 +1,22 @@
+{
+	"name" : "Mask up tweaks",
+	"description" : "Switch weapons before masking up, instant masking up and no slowmo!",
+	"author" : "6r1N",
+	"version" : "1.0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/beings/player/states/playermaskoff",
+			"script_path" : "playermaskoff.lua"
+		},
+
+		{
+			"hook_id" : "lib/tweak_data/timespeedeffecttweakdata",
+			"script_path" : "timespeedeffecttweakdata.lua"
+		},
+
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		}
+	]
+}

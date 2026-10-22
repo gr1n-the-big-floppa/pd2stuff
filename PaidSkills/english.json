@@ -1,0 +1,13 @@
+{
+  "paidskills_skill_respec" : "This will remove the $skill_name; skill.\n\nIt will return $refund_points; points and refund $refund_cash_perc;% of cash invested.",
+  "paidskills_tree_respec" : "You are about to respec this skill tree.\n\nDoing a respec resets all skill points in the $skill_tree; skill tree.\nYou will also be refunded $refund_cash_perc;% of your investments in this tree.",
+  "paidskills_all_trees_respec" : "You are about to respec all skill trees.\n\nDoing a respec resets all skill points.\nYou will also be refunded $refund_cash_perc;% of cash invested across all skill trees.",
+  "paidskills_basic" : "BASIC",
+  "paidskills_ace" : "ACE",
+
+  "paidskills_title" : "PaidSkills settings",
+  "paidskills_desc" : "Change PaidSkills settings",
+
+  "paidskills_settings_no_confirmation_title" : "No confirmation dialogs",
+  "paidskills_settings_no_confirmation_description" : "Disable confirmation dialogs when adding/removing skills and resetting skill trees."
+}

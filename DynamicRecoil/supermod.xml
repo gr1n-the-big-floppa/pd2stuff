@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mod name="DynamicRecoil">
+    <hooks script_path="mod.lua">
+    	<post hook_id="lib/units/cameras/fpcameraplayerbase"/>
+    </hooks>
+</mod>

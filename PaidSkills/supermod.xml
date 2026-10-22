@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<mod name="PaidSkills">
+    <hooks script_path="mod.lua">
+    	<post hook_id="lib/managers/skilltreemanager"/>
+    	<post hook_id="lib/managers/menu/skilltreeguinew"/>
+    </hooks>
+</mod>

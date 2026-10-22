@@ -1,0 +1,12 @@
+{
+	"name" : "WinDelay",
+	"description" : "Delays the switch to victory screen when entering escape trigger.",
+	"author" : "6r1N",
+	"version" : "2",
+	"hooks" : [
+	    {
+			"hook_id" : "lib/managers/mission/elementareatrigger",
+			"script_path" : "elementareatrigger.lua"
+		}
+	]
+}

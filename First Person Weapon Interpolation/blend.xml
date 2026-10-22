@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tweaks>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps" segment="base" />
+    </search>
+
+    <target>
+      <default blend="5.0" />
+    </target>
+
+  </tweak>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/start_running" segment="base" />
+    </search>
+
+    <target>
+      <default blend="7.5" />
+    </target>
+
+  </tweak>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/stop_running" segment="base" />
+    </search>
+
+    <target>
+      <default blend="7.5" />
+    </target>
+
+  </tweak>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/running" segment="base" />
+    </search>
+
+    <target>
+      <default blend="0.0" />
+    </target>
+
+  </tweak>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/recoil_loop" segment="base" />
+    </search>
+
+    <target>
+      <default blend="0.0" />
+    </target>
+
+  </tweak>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/throw_projectile_enter" segment="base" />
+    </search>
+
+    <target>
+      <default blend="0.0" />
+    </target>
+
+  </tweak>
+
+  <tweak version="2" name="anims/fps/fps_spawn" extension="animation_states">
+
+    <search>
+      <xml />
+      <state name="fps/throw_projectile_exit" segment="base" />
+    </search>
+
+    <target>
+      <default blend="0.0" />
+    </target>
+
+  </tweak>
+
+</tweaks>
